@@ -1,121 +1,97 @@
 <h1 align="center">Hi 👋, I'm Yash Ganatra</h1>
+
 <h3 align="center">
-AI/ML Developer | Full-Stack Engineer | Building Intelligent & Scalable Systems
+AI/ML Engineer • Full Stack Developer • Building Intelligent Systems
 </h3>
 
 <p align="center">
-I design and build AI-powered products — from LLM pipelines and agent-based simulations  
-to scalable backend APIs and sleek web applications.
+I build AI-powered products — from LLM pipelines and agent-based simulations  
+to scalable backend systems and high-performance web applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-ganatra&label=Profile%20views&color=0e75b6&style=flat" alt="yash-ganatra" />
+  <img src="https://komarev.com/ghpvc/?username=yash-ganatra&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 📍 About Me
+## 🚀 What I Work On
 
-- 📍 Currently: Engineering Student & AI/ML Developer  
-- 🔭 I build:  
-  - 🧠 Intelligent AI systems (LLM fine-tuning, RAG pipelines)  
-  - 🤖 Agent-based simulations & data processing systems  
-  - ⚙️ Fast, reliable backend APIs with FastAPI/Node.js  
-  - 🌐 Full-stack applications with React & modern JS stacks
-
-- 🎓 Learning and growing in data systems, production-ready AI, and scalable cloud engineering  
-- 🚀 Passionate about solving real-world problems through code, automation, and efficiency
+- 🧠 LLMs & AI Systems (Mistral fine-tuning, RAG pipelines)
+- 🤖 Agent-Based Modeling (market simulations, adaptive strategies)
+- ⚙️ Backend Engineering (FastAPI, scalable APIs)
+- 🌐 Full-Stack Apps (React, Ionic, modern JS)
+- 🏁 Hackathons & rapid prototyping
 
 ---
 
-### 💼 Projects & Work
+## 💬 Ask Me About
 
-Here are some major highlighted projects:
-
-- **Agent-based simulation platform** — Adaptive market simulation with strategy optimization  
-- **Finetune-Mistral-7B** — LLM fine-tuning pipelines & training workflows  
-- **Compresso** — AI text summarizer with BART-based models  
-- **Kitchen Chronicles** — Recipe discovery & filter UI web app  
-- **Paratropper Game** — JavaScript interactive arcade game
-
-> Stacks I love: Python, FastAPI, React, Node.js, LangChain, AWS, GCP, PostgreSQL, MongoDB, Redis
+**AI/ML • LLMs • RAG • Agent-Based Systems • FastAPI • Full-Stack Engineering**
 
 ---
 
-### ⭐ Highlights & Achievements
-
-- 🏆 Built shipped AI/ML projects under production constraints  
-- ✨ Optimized backend systems for performance & scalability  
-- 🔥 Consistent participation in coding challenges & project hackathons  
-- 📚 Continuously learning new systems and technologies
-
----
-
-## 🛠️ Tools & Technologies
-<p align="left">
-
-<!-- Programming -->
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-
-<!-- Frontend -->
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-
-<!-- Backend -->
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-
-<!-- Databases & DevOps -->
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-ganatra&show_icons=true&theme=dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yash-ganatra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"
+    width="45%"
+  />
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=yash-ganatra&theme=tokyonight&hide_border=true&border_radius=12"
+    width="45%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yash-ganatra&theme=dark" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yash-ganatra&theme=tokyo-night&area=true&hide_border=true&radius=12"
+    width="92%"
+  />
 </p>
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-ganatra&layout=compact&theme=dark" />
-</p>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-ganatra&theme=monokai" />
+  <a href="mailto:yashtganatra@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yash-ganatra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📌 Pinned Repositories
-
-<!-- If GitHub auto-renders pinned repos here, no extra markup required; but you *can* list manually if preferred -->
-
-<p align="center">
-<!-- Example manual pin references or let GitHub show pins -->
-</p>
-
----
-
-### 📫 Contact Me
-
-✉️ **Email:** yashtganatra@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/yash-ganatra
-
----
-
-⭐ *Always learning, always building — open for collaboration and innovation!*
+⭐ *Always learning. Always building. Open to impactful collaborations.*
