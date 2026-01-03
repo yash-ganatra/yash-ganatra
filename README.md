@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Ganatra</h1>
+<h1 align="center">Hi, I'm Yash Ganatra</h1>
 
 <h3 align="center">
 AI/ML Engineer • Full Stack Developer • Building Intelligent Systems
