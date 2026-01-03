@@ -1,84 +1,76 @@
 <h1 align="center">Hi 👋, I'm Yash Ganatra</h1>
 <h3 align="center">
-AI/ML Engineer • Full-Stack Developer • Building Intelligent & Scalable Systems
+AI/ML Developer | Full-Stack Engineer | Building Intelligent & Scalable Systems
 </h3>
 
 <p align="center">
 I design and build AI-powered products — from LLM pipelines and agent-based simulations  
-to scalable backend systems and high-performance web applications.
+to scalable backend APIs and sleek web applications.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yash-ganatra&label=Profile%20views&color=0e75b6&style=flat" alt="yash-ganatra" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-ganatra&theme=algolia&no-frame=true&row=1" />
-</p>
+---
+
+### 📍 About Me
+
+- 📍 Currently: Engineering Student & AI/ML Developer  
+- 🔭 I build:  
+  - 🧠 Intelligent AI systems (LLM fine-tuning, RAG pipelines)  
+  - 🤖 Agent-based simulations & data processing systems  
+  - ⚙️ Fast, reliable backend APIs with FastAPI/Node.js  
+  - 🌐 Full-stack applications with React & modern JS stacks
+
+- 🎓 Learning and growing in data systems, production-ready AI, and scalable cloud engineering  
+- 🚀 Passionate about solving real-world problems through code, automation, and efficiency
 
 ---
 
-## 🚀 What I’m Working On
+### 💼 Projects & Work
 
-- 🧠 LLMs & AI Systems (Mistral fine-tuning, RAG pipelines, inference optimization)
-- 🤖 Agent-Based Modeling (market simulations, adaptive strategies)
-- ⚙️ Backend Engineering (FastAPI, scalable APIs, async systems)
-- 🌐 Full-Stack Applications (React + Ionic, performance-focused UI)
-- 🏁 Hackathons & Rapid Prototyping (end-to-end product delivery)
+Here are some major highlighted projects:
 
----
+- **Agent-based simulation platform** — Adaptive market simulation with strategy optimization  
+- **Finetune-Mistral-7B** — LLM fine-tuning pipelines & training workflows  
+- **Compresso** — AI text summarizer with BART-based models  
+- **Kitchen Chronicles** — Recipe discovery & filter UI web app  
+- **Paratropper Game** — JavaScript interactive arcade game
 
-## 💬 Ask Me About
-
-**AI/ML • LLM Fine-Tuning • RAG Systems • Agent-Based Modeling • FastAPI • Full-Stack Engineering**
+> Stacks I love: Python, FastAPI, React, Node.js, LangChain, AWS, GCP, PostgreSQL, MongoDB, Redis
 
 ---
 
-## 📫 How to Reach Me
+### ⭐ Highlights & Achievements
 
-- 📧 **Email:** yashtganatra@gmail.com  
-- 💼 **LinkedIn:**  
-<a href="https://linkedin.com/in/yash-ganatra" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+- 🏆 Built shipped AI/ML projects under production constraints  
+- ✨ Optimized backend systems for performance & scalability  
+- 🔥 Consistent participation in coding challenges & project hackathons  
+- 📚 Continuously learning new systems and technologies
 
 ---
 
-## 🛠️ Languages & Tools
-
+## 🛠️ Tools & Technologies
 <p align="left">
 
 <!-- Programming -->
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
 
 <!-- Frontend -->
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://ionicframework.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
 
 <!-- Backend -->
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
 
-<!-- Databases -->
+<!-- Databases & DevOps -->
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-
-<!-- AI / ML -->
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-
-<!-- DevOps -->
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
 
 </p>
 
@@ -100,4 +92,29 @@ to scalable backend systems and high-performance web applications.
 
 ---
 
-⭐ Always learning. Always building. Open to impactful collaborations.
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-ganatra&theme=monokai" />
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+<!-- If GitHub auto-renders pinned repos here, no extra markup required; but you *can* list manually if preferred -->
+
+<p align="center">
+<!-- Example manual pin references or let GitHub show pins -->
+</p>
+
+---
+
+### 📫 Contact Me
+
+✉️ **Email:** yashtganatra@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/yash-ganatra
+
+---
+
+⭐ *Always learning, always building — open for collaboration and innovation!*
