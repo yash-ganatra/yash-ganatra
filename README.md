@@ -15,23 +15,23 @@ to scalable backend systems and high-performance web applications.
 
 ---
 
-## 🚀 What I Work On
+## What I Work On
 
-- 🧠 LLMs & AI Systems (Mistral fine-tuning, RAG pipelines)
-- 🤖 Agent-Based Modeling (market simulations, adaptive strategies)
-- ⚙️ Backend Engineering (FastAPI, scalable APIs)
-- 🌐 Full-Stack Apps (React, Ionic, modern JS)
-- 🏁 Hackathons & rapid prototyping
+-  LLMs & AI Systems (Mistral fine-tuning, RAG pipelines)
+-  Agent-Based Modeling (market simulations, adaptive strategies)
+-  Backend Engineering (FastAPI, scalable APIs)
+-  Full-Stack Apps (React, Ionic, modern JS)
+-  Hackathons & rapid prototyping
 
 ---
 
-## 💬 Ask Me About
+##  Ask Me About
 
 **AI/ML • LLMs • RAG • Agent-Based Systems • FastAPI • Full-Stack Engineering**
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img
@@ -53,7 +53,7 @@ to scalable backend systems and high-performance web applications.
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
 
@@ -81,7 +81,7 @@ to scalable backend systems and high-performance web applications.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:yashtganatra@gmail.com">
@@ -94,4 +94,4 @@ to scalable backend systems and high-performance web applications.
 
 ---
 
-⭐ *Always learning. Always building. Open to impactful collaborations.*
+ *Always learning. Always building. Open to impactful collaborations.*
