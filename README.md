@@ -35,10 +35,6 @@ to scalable backend systems and high-performance web applications.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yash-ganatra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"
-    width="45%"
-  />
-  <img
     src="https://nirzak-streak-stats.vercel.app/?user=yash-ganatra&theme=tokyonight&hide_border=true&border_radius=12"
     width="45%"
   />
